@@ -2,6 +2,8 @@
 
 # pixel-rain-with-rust-and-rust
 
+![Jun-26-2022 16-22-42](https://user-images.githubusercontent.com/1176339/175844917-48a722d9-9de7-42bb-b807-7a3e3b0b6afe.gif)
+
 Inspired by https://youtu.be/RCVxXgJ8xSk I created a YEW app that applies a pixel rain effect to an image.
 
 I used no other frameworks, just the HTML canvas, and a basic particle system all written in Rust.
