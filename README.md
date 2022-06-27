@@ -15,7 +15,7 @@ Let me know what you think!
 # How to run?
 
 ```
-runk serve
+trunk serve
 ```
 
 # YouTube Video
